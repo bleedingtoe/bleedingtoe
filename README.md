@@ -35,13 +35,9 @@ I build small, useful tools with an emphasis on:
 
 ### OSINT Toolkit
 **Repository:** https://github.com/bleedingtoe/osint  
-**Description:** Open-source intelligence toolkit (utilities, helpers, and workflow tooling).
 
 ### Security / Utilities (Recommended: clarify scope)
 **Repository:** https://github.com/bleedingtoe/pswd-logger  
-**Description:** Rebuilt toolkit from scratch.  
-> Tip: for a professional profile, consider renaming this repo and adding a clear README note about purpose, scope, and ethics.  
-> Names that include “logger” and “pswd” can be interpreted as credential-stealing, even if that’s not your intent.
 
 ---
 
