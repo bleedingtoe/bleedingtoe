@@ -29,7 +29,7 @@
 | project | description |
 |---|---|
 | [osint](https://github.com/bleedingtoe/osint) | open source intelligence toolkit |
-| [pswdlogger](https://github.com/bleedingtoe/pswdlogger) | osint toolkit — rebuilt from scratch |
+| [pswd-logger](https://github.com/bleedingtoe/pswd-logger) | osint toolkit — rebuilt from scratch |
 
 ---
 
