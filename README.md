@@ -1,25 +1,23 @@
 <div align="center">
 
 # bleedingtoe
-**self-taught dev building small tools & shipping fast**
+**Self-taught developer focused on practical tools and automation**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bleedingtoe&color=grey&style=flat&label=views)
-
-<!-- optional: quick vibe line -->
-<!-- <sub>into OSINT, automation, and clean UIs</sub> -->
 
 </div>
 
 ---
 
-## about
-- building: **OSINT + automation tools**
-- learning: **better architecture, cleaner UI, faster workflows**
-- goal: **make useful stuff that feels good to use**
+## Overview
+I build small, useful tools with an emphasis on:
+- **Automation** and workflow improvements  
+- **OSINT-oriented utilities** and data handling  
+- **Clean, maintainable code** and readable documentation  
 
 ---
 
-## languages & tools
+## Tech Stack
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=F0C040)
@@ -33,22 +31,21 @@
 
 ---
 
-## featured projects
-> a couple things i’m proud of right now
+## Featured Projects
 
-### 🔎 osint toolkit
-- repo: **[bleedingtoe/osint](https://github.com/bleedingtoe/osint)**
-- focus: collection + workflow helpers for open-source intelligence
-- status: active / improving modules
+### OSINT Toolkit
+**Repository:** https://github.com/bleedingtoe/osint  
+**Description:** Open-source intelligence toolkit (utilities, helpers, and workflow tooling).
 
-<!--
-I’m intentionally NOT including “pswd-logger” here because it can look like credential theft tooling.
-If it’s for learning, keep it private or rename + clearly scope it as a safe demo.
--->
+### Security / Utilities (Recommended: clarify scope)
+**Repository:** https://github.com/bleedingtoe/pswd-logger  
+**Description:** Rebuilt toolkit from scratch.  
+> Tip: for a professional profile, consider renaming this repo and adding a clear README note about purpose, scope, and ethics.  
+> Names that include “logger” and “pswd” can be interpreted as credential-stealing, even if that’s not your intent.
 
 ---
 
-## stats
+## GitHub Statistics
 <div align="center">
 
 ![bleedingtoe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bleedingtoe&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=F0C040&icon_color=F0C040&text_color=EFEFEF)
@@ -61,7 +58,7 @@ If it’s for learning, keep it private or rename + clearly scope it as a safe d
 
 ---
 
-## contact
+## Contact
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-@th0nny-0A0A0A?style=flat-square&logo=telegram&logoColor=F0C040)](https://t.me/th0nny)
@@ -70,5 +67,5 @@ If it’s for learning, keep it private or rename + clearly scope it as a safe d
 </div>
 
 <div align="center">
-<sub>discord: disc0rdslittlefucktoy</sub>
+<sub>Discord: disc0rdslittlefucktoy</sub>
 </div>
