@@ -38,9 +38,6 @@ I build small, useful tools with an emphasis on:
 
 ### Toolkit (Recommended: clarify scope)
 - **Repo:** https://github.com/bleedingtoe/pswd-logger  
----
-
----
 
 ## Contact
 <div align="center">
