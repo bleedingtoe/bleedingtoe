@@ -1,4 +1,4 @@
-I just build stuff using python
+no skidding here
 
 
 https://moonlifescripts.cc
