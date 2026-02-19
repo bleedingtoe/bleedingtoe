@@ -36,7 +36,7 @@ I build small, useful tools with an emphasis on:
 ### OSINT Toolkit
 - **Repo:** https://github.com/bleedingtoe/osint  
 
-### Toolkit (Recommended: clarify scope)
+### Bonk pswds
 - **Repo:** https://github.com/bleedingtoe/pswd-logger  
 
 ## Contact
