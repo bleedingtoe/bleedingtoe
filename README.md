@@ -1,7 +1,7 @@
 <div align="center">
 
 # bleedingtoe
-**Self-taught developer focused on practical tools and automation**
+**Self-taught developer focused on practical tools, automation, and clean documentation**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bleedingtoe&color=grey&style=flat&label=views)
 
@@ -11,9 +11,9 @@
 
 ## Overview
 I build small, useful tools with an emphasis on:
-- **Automation** and workflow improvements  
-- **OSINT-oriented utilities** and data handling  
-- **Clean, maintainable code** and readable documentation  
+- **Automation** and workflow improvements
+- **OSINT-oriented utilities** and data handling
+- **Clean, maintainable code** and readable documentation
 
 ---
 
@@ -34,23 +34,28 @@ I build small, useful tools with an emphasis on:
 ## Featured Projects
 
 ### OSINT Toolkit
-**Repository:** https://github.com/bleedingtoe/osint  
+- **Repo:** https://github.com/bleedingtoe/osint  
+- **Description:** Open-source intelligence toolkit (utilities, helpers, and workflow tooling).
 
-### Security / Utilities (Recommended: clarify scope)
-**Repository:** https://github.com/bleedingtoe/pswd-logger  
+### Toolkit (Recommended: clarify scope)
+- **Repo:** https://github.com/bleedingtoe/pswd-logger  
+- **Description:** Rebuilt toolkit from scratch.  
+  *Tip: for a professional profile, consider renaming this repo and adding a clear README note about purpose, scope, and ethics.*
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 <div align="center">
-
-![bleedingtoe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bleedingtoe&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=F0C040&icon_color=F0C040&text_color=EFEFEF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bleedingtoe&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=F0C040&text_color=EFEFEF)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bleedingtoe&theme=dark&hide_border=true&background=0A0A0A&ring=F0C040&fire=F0C040&currStreakLabel=F0C040)
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bleedingtoe&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=F0C040&icon_color=F0C040&text_color=EFEFEF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleedingtoe&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=F0C040&text_color=EFEFEF" />
 </div>
+
+<!-- If the cards above fail due to rate-limits, switch to this mirror:
+<div align="center">
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bleedingtoe&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=F0C040&icon_color=F0C040&text_color=EFEFEF" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bleedingtoe&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=F0C040&text_color=EFEFEF" />
+</div>
+-->
 
 ---
 
@@ -63,5 +68,5 @@ I build small, useful tools with an emphasis on:
 </div>
 
 <div align="center">
-<sub>Discord: disc0rdslittlefucktoy</sub>
+  <sub>Discord: disc0rdslittlefucktoy</sub>
 </div>
